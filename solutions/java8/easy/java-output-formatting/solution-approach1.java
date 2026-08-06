@@ -6,7 +6,7 @@
 // Platform    HackerRank
 // Language    java8
 // Status      Accepted
-// Submitted   2026-08-06, 11:38 a.m.
+// Submitted   2026-08-06, 11:39 a.m.
 // ──────────────────────────────────────────────────
 
 import java.util.Scanner;
